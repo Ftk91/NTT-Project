@@ -1,6 +1,5 @@
 # NTT-Project
 
-
 In this lab I simulated working for a small MSP that was hired to build a small business enviroment
 Tools used in this lab
 
@@ -27,4 +26,5 @@ Stage 0 - Beginning topogoly
 ----
 
 Stage 1 - Network Setup
+
 
