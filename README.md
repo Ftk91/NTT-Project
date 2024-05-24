@@ -7,8 +7,9 @@ Tools used in this lab
 GSN3
 Wireshark
 Greenbone
-----
+
 The client in this scenario requested
+
 * a secure network
 * an internal Windows Domain
 * an internal Microsoft IIS webserver
