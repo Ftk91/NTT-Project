@@ -24,3 +24,6 @@ Stage 0 - Beginning topogoly
 ![Stage-0](https://github.com/Ftk91/NTT-Project/assets/170447276/f7166442-d400-4640-8875-65a016036231)
 
 
+======
+Stage 1 - Network Setup
+
