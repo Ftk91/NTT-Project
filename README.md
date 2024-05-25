@@ -81,6 +81,13 @@ I then created 2 different service groups LAN service group and DMZ service grou
 | Web Access    | Web Access    |
 | Windows AD    |               |
 
+![Fortigate 9](https://github.com/Ftk91/NTT-Project/assets/170447276/767f01f1-6dce-4369-8fc4-d900c8032ebd)
+
+Lastly I configured firewall rules and backed up changes
+
+![Fortigate 10](https://github.com/Ftk91/NTT-Project/assets/170447276/7cc86517-ad09-4bf6-8f4a-3454ba0a6c48)
+
+# Stage 1 - Domain Setup
 
 
 
