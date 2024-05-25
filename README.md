@@ -117,5 +117,15 @@ I then prepared the Windows 10 workstation to join the domain by changing the ho
 
 ![Stage 2 6](https://github.com/Ftk91/NTT-Project/assets/170447276/56d41788-8618-4773-9b13-51c68bd4252d)
 
+Finally I joined the Windows 10 workstation to the domain
+
+![Stage 2 9](https://github.com/Ftk91/NTT-Project/assets/170447276/2017b243-65b8-4146-85b4-aaf94b150aba)
+
+To differentiate user accounts and admin accounts I deployed desktop background wallpaper using group policy
+
+![Stage 2 10](https://github.com/Ftk91/NTT-Project/assets/170447276/2055ff04-4470-40ec-a519-6371bdd04d69)
+
+
+
 
 
