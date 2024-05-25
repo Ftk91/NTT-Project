@@ -125,6 +125,7 @@ To differentiate user accounts and admin accounts I deployed desktop background 
 
 ![Stage 2 10](https://github.com/Ftk91/NTT-Project/assets/170447276/2055ff04-4470-40ec-a519-6371bdd04d69)
 
+# Stage 3 - IIS Setup
 
 
 
