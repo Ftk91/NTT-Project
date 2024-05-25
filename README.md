@@ -54,7 +54,7 @@ I again verified the configuration and verified the workstation has leased a DHC
 
 ![Fortigate 4](https://github.com/Ftk91/NTT-Project/assets/170447276/dc70ecc9-a78f-4347-aa4c-96a10afb425c)
 
-Next I connected to the Fortigate GUI and setup a hostname, Time zone, enabled NTP allowing LAN and DMZ devices to sync time with the firewall, updated the idle timeout time just so I didn't have to constantly login, and auto file system check to prevent warning messages due to unclean shutdowns. Once settings were applied I made sure to created a backup and rebooted the firewall.
+Next I connected to the Fortigate GUI and setup a hostname, Timezone, enabled NTP allowing LAN and DMZ devices to sync time with the firewall, updated the idle timeout time just so I didn't have to constantly login, and enabled auto file system check to prevent warning messages due to unclean shutdowns. Once settings were applied I made sure to created a backup and rebooted the firewall.
 
 ![Fortigate 5](https://github.com/Ftk91/NTT-Project/assets/170447276/53e83cf3-2db9-4d13-80c9-2d51ad3635ad)
 
