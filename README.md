@@ -20,20 +20,20 @@ The client in this scenario requested
 * a DMZ network on 10.128.10.0/24
 * a GUEST network on 10.128.99.0/24
 
-Stage 0 - Beginning topogoly 
+# Stage 0 - Beginning topogoly 
 
 ![Stage-0](https://github.com/Ftk91/NTT-Project/assets/170447276/f7166442-d400-4640-8875-65a016036231)
 
 
 ----
 
-Stage 1 - Network Setup
+# Stage 1 - Network Setup
 
 In Stage 1 I added and configured Fortigate firewall, LAN Switch, DMZ Switch, and Windows 10 workstation resulting in the topology below
 
 ![Stage-1](https://github.com/Ftk91/NTT-Project/assets/170447276/71d92734-67db-4a8b-b600-c7e124e5c6f7)
 
-h2#Fortigate Firewall Configuration
+## Fortigate Firewall Configuration
 ----
 
 Per the client request they requested LAN to configured to 10.128.0.0/24
