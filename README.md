@@ -99,7 +99,7 @@ Preparing Win2012r2 server for Active Directory Domain Services role I logged in
 
 Then I installed Active Directory services following Microsofts guide
 
-[Building Your First Domain Controller on 2012 R2 | https://learn.microsoft.com/en-us/archive/technet-wiki/22622.building-your-first-domain-controller-on-2012-r2]
+[Building Your First Domain Controller on 2012 R2](https://learn.microsoft.com/en-us/archive/technet-wiki/22622.building-your-first-domain-controller-on-2012-r2) 
 
 
 
