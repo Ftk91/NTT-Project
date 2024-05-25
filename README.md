@@ -73,12 +73,12 @@ Next I configured the network interfaces per the clients request and configured 
 I then created 2 different service groups LAN service group and DMZ service group
 
 | LAN members   | DMZ members   |
-| ------------- |:-------------:|
+|:-------------:|:-------------:|
 | ALL_ICMP      | ALL_ICMP      | 
 | NTP           | FTP           | 
 | RDP           | RDP           | 
 | SSH           | SSH           |
-| Web Acess     | Web Access    |
+| Web Access    | Web Access    |
 | Windows AD    |               |
 
 
