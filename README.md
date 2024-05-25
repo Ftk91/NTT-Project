@@ -40,7 +40,7 @@ Per the client request they requested LAN to configured to 10.128.0.0/24
 
 ![Fortigate 1](https://github.com/Ftk91/NTT-Project/assets/170447276/f7affebe-c446-4daa-95dc-89a16834de4f)
 
-I verified the configuration applied correctly
+I then verified the configuration applied correctly
 
 ![Fortigate 2](https://github.com/Ftk91/NTT-Project/assets/170447276/bf1a5329-c88f-43bb-8f1e-3c76dab5b229)
 
