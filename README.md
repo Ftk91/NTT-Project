@@ -87,7 +87,7 @@ Lastly I configured firewall rules and backed up changes
 
 ![Fortigate 10](https://github.com/Ftk91/NTT-Project/assets/170447276/7cc86517-ad09-4bf6-8f4a-3454ba0a6c48)
 
-# Stage 1 - Domain Setup
+# Stage 2 - Domain Setup
 
 
 
