@@ -29,7 +29,7 @@ Stage 0 - Beginning topogoly
 
 Stage 1 - Network Setup
 
-In Stage 1 I added and configured Fortigate firewall, LAN Switch and DMZ Switch resulting in the topology below
+In Stage 1 I added and configured Fortigate firewall, LAN Switch, DMZ Switch, and Windows 10 workstation resulting in the topology below
 
 ![Stage-1](https://github.com/Ftk91/NTT-Project/assets/170447276/71d92734-67db-4a8b-b600-c7e124e5c6f7)
 
