@@ -89,5 +89,19 @@ Lastly I configured firewall rules and backed up changes
 
 # Stage 2 - Domain Setup
 
+Preparing Win2012r2 server for Active Directory Domain Services role I logged in to the server and setup a static IP Address, sync the time on the LAN interface with the firewall, and change hostname to dc
+
+![Stage 2 1](https://github.com/Ftk91/NTT-Project/assets/170447276/18da0755-16fe-4778-958f-3e4da3882624)
+
+![Stage 2 2](https://github.com/Ftk91/NTT-Project/assets/170447276/15062ee6-8cfe-469d-bfd2-686d437d750e)
+
+![Stage 2 3](https://github.com/Ftk91/NTT-Project/assets/170447276/7803df49-5b40-417a-acdc-9f1eb49d4274)
+
+Then I installed Active Directory services following Microsofts guide
+
+[Building Your First Domain Controller on 2012 R2 | https://learn.microsoft.com/en-us/archive/technet-wiki/22622.building-your-first-domain-controller-on-2012-r2]
+
+
+
 
 
