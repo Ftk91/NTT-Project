@@ -58,7 +58,28 @@ Next I connected to the Fortigate GUI and setup a hostname, Timezone, enabled NT
 
 ![Fortigate 5](https://github.com/Ftk91/NTT-Project/assets/170447276/53e83cf3-2db9-4d13-80c9-2d51ad3635ad)
 
+Next I configured the network interfaces per the clients request and configured DNS
 
+* 10.128.0.0/24 as the LAN network
+* 10.128.99.0/24 as the GUEST network
+* 10.128.10.0/24 as the DMZ network
+
+![Fortigate 6](https://github.com/Ftk91/NTT-Project/assets/170447276/67e11d00-6b14-49db-8e00-9afcb6a3eed5)
+  
+![Fortigate 7](https://github.com/Ftk91/NTT-Project/assets/170447276/78cb69b5-cde8-4c46-b5c6-d0ca9a5e09cc)
+
+![Fortigate 8](https://github.com/Ftk91/NTT-Project/assets/170447276/72ad5362-728e-459e-9dc8-35755666b06f)
+
+I then created 2 different service groups LAN service group and DMZ service group
+
+| LAN members   | DMZ members   |
+| ------------- |:-------------:|
+| ALL_ICMP      | ALL_ICMP      | 
+| NTP           | FTP           | 
+| RDP           | RDP           | 
+| SSH           | SSH           |
+| Web Acess     | Web Access    |
+| Windows AD    |               |
 
 
 
