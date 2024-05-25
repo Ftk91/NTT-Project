@@ -97,11 +97,25 @@ Preparing Win2012r2 server for Active Directory Domain Services role I logged in
 
 ![Stage 2 3](https://github.com/Ftk91/NTT-Project/assets/170447276/7803df49-5b40-417a-acdc-9f1eb49d4274)
 
-Then I installed Active Directory services following Microsofts guide
+Then I installed Active Directory services following Microsofts guide and named the domain widgets.localdomain per clients request
 
 [Building Your First Domain Controller on 2012 R2](https://learn.microsoft.com/en-us/archive/technet-wiki/22622.building-your-first-domain-controller-on-2012-r2) 
 
 
+Once installed I created domain user accounts and domain admins account to manage the enviroment. I added admin accounts to the domain admin groups
+
+![Stage 2 7](https://github.com/Ftk91/NTT-Project/assets/170447276/f81c06f3-b0a3-46d6-bc8d-80851c2e11e9)
+
+![Stage 2 8](https://github.com/Ftk91/NTT-Project/assets/170447276/f3d01924-62e8-4ed0-8019-896325746246)
+
+
+I then prepared the Windows 10 workstation to join the domain by changing the hostname, changing the primary DNS server to the IP of the domain controller, and setting the NTP by syncing with dc.widgets.localdoamain.
+
+![Stage 2 4](https://github.com/Ftk91/NTT-Project/assets/170447276/be1fe23f-d413-498a-b402-dd8b0873ae57)
+
+![Stage 2 5](https://github.com/Ftk91/NTT-Project/assets/170447276/5fabf2f1-0072-47e4-9db1-8a784bd34f79)
+
+![Stage 2 6](https://github.com/Ftk91/NTT-Project/assets/170447276/56d41788-8618-4773-9b13-51c68bd4252d)
 
 
 
