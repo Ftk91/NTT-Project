@@ -52,7 +52,8 @@ I again verified the configuration and verified the workstation has leased a DHC
 
 ![Fortigate 4](https://github.com/Ftk91/NTT-Project/assets/170447276/d67ec68a-fc80-4d92-80d1-8ef56af4b687)
 
-![Fortigate 4](https://github.com/Ftk91/NTT-Project/assets/170447276/62352bb0-3d43-41d8-8a7e-731d381d3d60)
+![Fortigate 4](https://github.com/Ftk91/NTT-Project/assets/170447276/dc70ecc9-a78f-4347-aa4c-96a10afb425c)
+
 
 
 
