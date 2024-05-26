@@ -102,7 +102,7 @@ Then I installed Active Directory services following Microsofts guide and named 
 [Building Your First Domain Controller on 2012 R2](https://learn.microsoft.com/en-us/archive/technet-wiki/22622.building-your-first-domain-controller-on-2012-r2) 
 
 
-Once installed I created domain user accounts and domain admins account to manage the enviroment. I added admin accounts to the domain admin groups
+Once installed I created domain user accounts and domain admins account to manage the enviroment. I added the admin account to the domain admin group
 
 ![Stage 2 7](https://github.com/Ftk91/NTT-Project/assets/170447276/f81c06f3-b0a3-46d6-bc8d-80851c2e11e9)
 
