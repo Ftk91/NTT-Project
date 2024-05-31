@@ -129,11 +129,17 @@ To differentiate user accounts and admin accounts I deployed desktop background 
 
 # Stage 3 - IIS Setup
 
-For Stage 3 IIS webserver was installed on Win2012r2 server this involved changing hostname, assigning static ip address, syncing with NTP and joining the server to the domain. Once joined I followed another Microsoft guide to install IIS
+For Stage 3 a IIS webserver was installed on Win2012r2 server this involved changing hostname, assigning static ip address, syncing with NTP and joining the server to the domain as done previously in Stage 2. 
+
+Once joined I followed another Microsoft guide to install IIS
 
 [Install IIS 8.5](https://learn.microsoft.com/en-us/iis/install/installing-iis-85/installing-iis-85-on-windows-server-2012-r2#install-iis-85-for-the-first-time-in-the-server-manager)
 
 ![Stage 3 1](https://github.com/Ftk91/NTT-Project/assets/170447276/4b938e4d-8696-41ff-87eb-b7e893496496)
 
+I created a simple test webpage to make sure that configuration was completed correctly and accessed it via Win 10 workstation
 
+![Stage 3 2](https://github.com/Ftk91/NTT-Project/assets/170447276/8872e661-f69d-4ced-9086-669d061905df)
+
+# Stage 4 - LAMP Setup
 
