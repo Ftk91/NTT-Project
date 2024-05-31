@@ -91,6 +91,8 @@ Lastly I configured firewall rules and backed up changes
 
 Preparing Win2012r2 server for Active Directory Domain Services role I logged in to the server and setup a static IP Address, sync the time on the LAN interface with the firewall, and change hostname to dc
 
+![Stage 2 11](https://github.com/Ftk91/NTT-Project/assets/170447276/36226bc0-b166-461c-8220-124d18efb993)
+
 ![Stage 2 1](https://github.com/Ftk91/NTT-Project/assets/170447276/18da0755-16fe-4778-958f-3e4da3882624)
 
 ![Stage 2 2](https://github.com/Ftk91/NTT-Project/assets/170447276/15062ee6-8cfe-469d-bfd2-686d437d750e)
