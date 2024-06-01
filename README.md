@@ -165,6 +165,10 @@ For Stage 5, once again, I added another server, set it up as in previous stages
 
 ![Stage 5 1](https://github.com/Ftk91/NTT-Project/assets/170447276/e65e3812-eef5-4757-ab08-7caf9ac52207)
 
+Final network topology
+
+![Stage 5 2](https://github.com/Ftk91/NTT-Project/assets/170447276/2959f3dc-2633-42ab-ade3-a1f1e95c27bd)
+
 # Stage 6 - Harden the enviroment
 
 
