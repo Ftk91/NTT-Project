@@ -161,6 +161,11 @@ Lastly I setup VIP on the firewall so DokuWiki could be accessed outside of the 
 
 # Stage 5 - FTP Setup
 
+For Stage 5, once again, I added another server, set it up as in previous stages, and had it join the domain. On this server, I added FTP service following the Microsoft guide [here](https://learn.microsoft.com/en-us/archive/technet-wiki/12364.windows-server-2012-ftp-installation)
+
 ![Stage 5 1](https://github.com/Ftk91/NTT-Project/assets/170447276/e65e3812-eef5-4757-ab08-7caf9ac52207)
+
+# Stage 6 - Harden the enviroment
+
 
 
