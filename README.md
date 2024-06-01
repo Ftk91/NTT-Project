@@ -4,9 +4,9 @@ In this lab I simulated working for a small MSP that was hired to build a small 
 
 Tools used in this lab
 ----
-* GSN3
-* Wireshark
-* Greenbone
+* GSN3 (Lab Enviroment)
+* Wireshark (Troubleshooting connection)
+* Greenbone (Vulnerability Management Tool)
 
 The client in this scenario requested
 
