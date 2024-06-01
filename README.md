@@ -142,7 +142,7 @@ I created a simple test webpage to ensure the configuration was completed correc
 
 # Stage 4 - LAMP Setup
 
-Stage 4 I added a Ubuntu server similarly to Windows I changed IP settings, updated hotname, and added the server to the domain. Once the server joined I updated the packages on the server.
+For Stage 4, I added an Ubuntu server similar to Windows. I changed the IP settings, updated the hostname, and added the server to the domain. Once the server joined, I updated the packages on the server.
 
 ![Stage 4 1](https://github.com/Ftk91/NTT-Project/assets/170447276/ff84b57a-c878-4726-b8bc-884f08d88816)
 
@@ -150,11 +150,14 @@ Stage 4 I added a Ubuntu server similarly to Windows I changed IP settings, upda
 
 ![Stage 4 3](https://github.com/Ftk91/NTT-Project/assets/170447276/70dcf469-8aed-467b-ae3e-41455395a85f)
 
-Once packages updated I installed [DokuWiki](https://kifarunix.com/install-and-setup-dokuwiki-on-ubuntu-20-04/) and configured to run on the network and documented the network on the widgets enviroment
+Once the packages updated, I installed [DokuWiki](https://kifarunix.com/install-and-setup-dokuwiki-on-ubuntu-20-04/) configured it to run on the network, and documented the network on the widgets environment.
 
 ![Stage 4 4](https://github.com/Ftk91/NTT-Project/assets/170447276/5b821b05-90e1-4524-a912-0f633225b219)
 ![Stage 4 5](https://github.com/Ftk91/NTT-Project/assets/170447276/ad225acb-a6dd-439d-bbb0-6f5cf61bc568)
 
+Lastly I setup VIP on the firewall so DokuWiki could be accessed outside of the lab enviroment.
+
+![Stage 4 6](https://github.com/Ftk91/NTT-Project/assets/170447276/1319f33c-dd75-4f4b-b76a-7519d3499e6e)
 
 
 
