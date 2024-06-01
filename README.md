@@ -171,5 +171,26 @@ Final network topology
 
 # Stage 6 - Harden the enviroment
 
+In Stage 6, I did research on how to harden the widgets environment and added first-party sources on the wiki on how to harden the environment. In my research, hardening is crucial because it strengthens systems against cyber threats by reducing vulnerabilities, preventing unauthorized access,  and ensuring resilience in the face of attacks. It safeguards data,  preserves system integrity, and maintains operational continuity. In the widgets environment, we utilized FortiGate firewalls to configure our network and limit traffic, implemented a domain controller that limited user privileges using active directory, implemented an IIS webserver to run a webpage, installed and updated our Ubuntu server to host our  Dokuwiki page on it, and lastly setup a FTP server so users with correct privileges can access files. We can improve the security standard of our environment using benchmarks from the Center of Internet Security (CIS) and or Security Technical  Implementation Guide (STIG) using a tool such as Tenable Nessus, which would scan our system using pre-configured policies and alert us to any issues that may need remediation.
+
+![Stage 6 1](https://github.com/Ftk91/NTT-Project/assets/170447276/270f47d9-eacd-4a7e-a3f0-16cee812a225)
+
+## Bonus
+As a bonus I ran a vulnerability scan using Greenbone and documented the results on the DokuWiki
+
+![Stage 6 2](https://github.com/Ftk91/NTT-Project/assets/170447276/6e4f0346-473a-47be-b254-9f5b10da4ffd)
+
+# Conclusion
+
+In this lab I built 
+
+ A SMB (small/medium business) network, with a LAN, DMZ, and Guest network.
+        A Windows domain environment.
+            A IIS webserver.
+            A Windows FTP server.
+            A Win10 workstation.
+        A LAMP webserver running on Ubuntu, hosting a wiki.
+        A FortiGate firewall, with a VIP for a DMZ webserver
+Researched how to harden each enviroment and ran a vulnerability scan using Greenbone Vulnerability Management tool.
 
 
