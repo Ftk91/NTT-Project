@@ -159,5 +159,8 @@ Lastly I setup VIP on the firewall so DokuWiki could be accessed outside of the 
 
 ![Stage 4 6](https://github.com/Ftk91/NTT-Project/assets/170447276/1319f33c-dd75-4f4b-b76a-7519d3499e6e)
 
+# Stage 5 - FTP Setup
+
+![Stage 5 1](https://github.com/Ftk91/NTT-Project/assets/170447276/e65e3812-eef5-4757-ab08-7caf9ac52207)
 
 
