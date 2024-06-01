@@ -182,15 +182,15 @@ As a bonus I ran a vulnerability scan using Greenbone and documented the results
 
 # Conclusion
 
-In this lab I built 
+In this lab I built:
 
- A SMB (small/medium business) network, with a LAN, DMZ, and Guest network.
-        A Windows domain environment.
-            A IIS webserver.
-            A Windows FTP server.
-            A Win10 workstation.
-        A LAMP webserver running on Ubuntu, hosting a wiki.
-        A FortiGate firewall, with a VIP for a DMZ webserver
-Researched how to harden each enviroment and ran a vulnerability scan using Greenbone Vulnerability Management tool.
+* A SMB (small/medium business) network, with a LAN, DMZ, and Guest network.
+* A Windows domain environment.
+* A IIS webserver.
+* A Windows FTP server.
+* A Win10 workstation.
+* A LAMP webserver running on Ubuntu, hosting a wiki.
+* A FortiGate firewall, with a VIP for a DMZ webserver.
+* Researched how to harden each enviroment and ran a vulnerability scan using Greenbone Vulnerability Management tool.
 
 
