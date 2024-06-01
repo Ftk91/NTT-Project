@@ -142,3 +142,19 @@ I created a simple test webpage to ensure the configuration was completed correc
 
 # Stage 4 - LAMP Setup
 
+Stage 4 I added a Ubuntu server similarly to Windows I changed IP settings, updated hotname, and added the server to the domain. Once the server joined I updated the packages on the server.
+
+![Stage 4 1](https://github.com/Ftk91/NTT-Project/assets/170447276/ff84b57a-c878-4726-b8bc-884f08d88816)
+
+![Stage 4 2](https://github.com/Ftk91/NTT-Project/assets/170447276/e1c500e5-d39b-47c6-8c82-090fa4cb8128)
+
+![Stage 4 3](https://github.com/Ftk91/NTT-Project/assets/170447276/70dcf469-8aed-467b-ae3e-41455395a85f)
+
+Once packages updated I installed [DokuWiki](https://kifarunix.com/install-and-setup-dokuwiki-on-ubuntu-20-04/) and configured to run on the network and documented the network on the widgets enviroment
+
+![Stage 4 4](https://github.com/Ftk91/NTT-Project/assets/170447276/5b821b05-90e1-4524-a912-0f633225b219)
+![Stage 4 5](https://github.com/Ftk91/NTT-Project/assets/170447276/ad225acb-a6dd-439d-bbb0-6f5cf61bc568)
+
+
+
+
